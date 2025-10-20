@@ -593,3 +593,6 @@ PRODUCT_PACKAGES += \
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/xiaomi/fog/fog-vendor.mk)
+
+# Priv Key
+include vendor/infinity-priv/keys/keys.mk
