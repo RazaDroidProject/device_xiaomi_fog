@@ -12,4 +12,5 @@
     <overlay package="com.android.wifi.resources.overlay.fog" mutable="false" enabled="true" />
     <overlay package="com.android.wifi.resources.overlay.fog_in" mutable="false" enabled="true" />
     <overlay package="com.android.wifi.resources.overlay.fog_power" mutable="false" enabled="true" />
+    <overlay package="com.infinity.updater.overlay.fog" mutable="false" enabled="true" />
 </config>

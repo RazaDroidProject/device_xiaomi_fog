@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2025 The Project Infinity-X
+     SPDX-License-Identifier: Apache-2.0
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.infinity.updater.overlay.fog">
+    
+    <overlay
+        android:targetPackage="com.infinity.updater"
+        android:priority="255"
+        android:isStatic="true" />
+
+    <application android:hasCode="false" />
+
+</manifest>

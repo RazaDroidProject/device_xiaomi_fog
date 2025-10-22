@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "FogUpdater",
+    device_specific: true,
+}
